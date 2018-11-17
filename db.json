@@ -1,6 +1,6 @@
 
 {
-  "posts": [
+  "location": [
     { "id": 1, "latitude": "24", "logitude": "54" }
   ]
 }
